@@ -54,7 +54,7 @@ a:hover {
 }
 
 .skill-row {
-    width: 50%;
+    width: 80%;
     margin: 100px auto;
     text-align: left;
 }
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .intro {
-    width: 50%;
+    width: 75%;
     margin: auto;
     text-align: left;
 }
@@ -115,7 +115,7 @@ a:hover {
 }
 
 .contact-message {
-    width: 50%;
+    width: 80%;
     margin: 40px auto 60px;
 }
 
